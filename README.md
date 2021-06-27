@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CryoBeast382
+- 👀 I’m interested in video games and programming
+- 🌱 I’m currently learning how to program in html, css, and javascript
+- 💞️ I’m looking to collaborate on not anything right now
